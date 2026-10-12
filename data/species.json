@@ -1,0 +1,18 @@
+[
+  {"name": "Indian peafowl", "type": "bird", "fact": "India's national bird. Males fan out their train in the monsoon to attract mates."},
+  {"name": "House sparrow", "type": "bird", "fact": "Once everywhere in Punjab villages, now declining in many cities. Leaving small water bowls out helps."},
+  {"name": "Rose-ringed parakeet", "type": "bird", "fact": "Loud green parrots that nest in tree holes and old walls, often in big noisy flocks."},
+  {"name": "Hoopoe", "type": "bird", "fact": "Spots a crest it raises when alarmed, and probes lawns and fields for insects with a long curved bill."},
+  {"name": "Common myna", "type": "bird", "fact": "Very social and a great mimic. Usually walks rather than hops."},
+  {"name": "Asian koel", "type": "bird", "fact": "The rising 'ku-oo' call you hear in summer is the male. They lay eggs in crow nests."},
+  {"name": "Black drongo", "type": "bird", "fact": "Farmers like it: it perches on wires and fence posts and snaps up crop-eating insects."},
+  {"name": "Indian roller", "type": "bird", "fact": "Flashes bright blue wings in flight. Named for its rolling display flight."},
+  {"name": "Shisham", "type": "plant", "fact": "Dalbergia sissoo, a common roadside and canal-bank tree in Punjab with valuable, durable timber."},
+  {"name": "Neem", "type": "plant", "fact": "Azadirachta indica. Leaves and twigs have long been used in traditional hygiene and as a natural pest repellent."},
+  {"name": "Peepal", "type": "plant", "fact": "Ficus religiosa. Heart-shaped leaves with a long drip tip; sacred in several traditions and often planted near villages."},
+  {"name": "Banyan", "type": "plant", "fact": "Ficus benghalensis. Grows aerial roots that become new trunks, so one tree can spread very wide."},
+  {"name": "Kikar", "type": "plant", "fact": "Vachellia nilotica (babul). Thorny, tough tree of dry areas with feathery leaves and yellow puffball flowers."},
+  {"name": "Eucalyptus", "type": "plant", "fact": "Widely planted along Punjab roads and field edges. Fast-growing but thirsty, using a lot of groundwater."},
+  {"name": "Mustard", "type": "plant", "fact": "Yellow winter fields of sarson are iconic in Punjab. Sarson da saag is the classic dish."},
+  {"name": "Marigold", "type": "plant", "fact": "Genda. Easy to grow, used in garlands, and often planted in gardens to deter some pests."}
+]
